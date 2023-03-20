@@ -1,5 +1,5 @@
 /**
-Andy Huang and , Samiul Hassan
+Andy Huang and Samiul Hassan
 Brute Force Ceaser Cipher using golang
 3/19/2023
 */
